@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wg4QD9LqJUowXa9wGs8XQoYFryQHKY8tLruuvRHR2P97hRBO/B016YhFmYGeZmzT4Mtk/XLzD3tw6+q9q9ulJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
